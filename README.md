@@ -47,20 +47,3 @@ Atualmente estou trabalhando em projetos pessoais, como os que estão aqui no me
 <br/>
 
 ### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="170" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=i-SaintDev&show_icons=true&theme=algolia&include_all_commits=true&locale=pt-br" 
-  /> 
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="170" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-SaintDev&theme=algolia&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
