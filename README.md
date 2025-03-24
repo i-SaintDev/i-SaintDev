@@ -55,7 +55,7 @@ Atualmente estou trabalhando em projetos pessoais, como os que estão aqui no me
     height="170" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=i-SaintDev&show_icons=true&theme=algolia&include_all_commits=true&locale=pt-br" 
-  />
+  /> 
 
 <img 
       align="left" 
