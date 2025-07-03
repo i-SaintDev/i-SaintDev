@@ -1,6 +1,6 @@
 # 👨‍💻 Israel Santana
 
-**`Desenvolvedor Estagiário`**
+**`Desenvolvedor em formação`**
 
 Olá! Meu nome é Israel Santana e estou em transição de carreira para a área de tecnologia. Atualmente, curso **Análise e Desenvolvimento de Sistemas** e estou focado em aprender e aprimorar minhas habilidades em **JavaScript, HTML e CSS.**
 
